@@ -1,5 +1,5 @@
 
-# Assignment 3 — Customer-Facing Resolution Agent
+# Customer-Facing Resolution Agent
 
 A complete offline Streamlit prototype for the AIONOS Assignment 3:
 **Customer-Facing Resolution Agent — Airline Disruption**.
